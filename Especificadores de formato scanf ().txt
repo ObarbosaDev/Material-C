@@ -1,0 +1,9 @@
+Especificadores de formato: scanf ()
+d ou i (Números inteiros em base decimal)
+x (Números inteiros em base hexadecimal)
+f (Números em ponto flutuante(com casas decimais))
+e (Números em notação científica(com casas decimais))
+c (Caracteres alfanuméricos(texto))
+s (Sequência de caracteres alfanuméricos(texto))
+[^chars] (Lê todos os dados digitados, exceto os especificados em "chars")
+  

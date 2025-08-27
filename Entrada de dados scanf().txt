@@ -1,0 +1,6 @@
+Entrada de dados: scanf()
+Sintaxe: 
+scanf(<form.>, &<v1>, &<v2>, ..., &<vN>);
+com o uso de &, as variáveis como <v1> e etc, estão relacionadas a mensagem inicial que é o <form.>. Pode ser usado dessa forma, ou criar um novo scanf para cada variável necessária
+
+Uso sempre em uma ou mais variáveis.

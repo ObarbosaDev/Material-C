@@ -1,0 +1,11 @@
+Variáveis
+No uso de variáveis com linguagem C, a variável precisa de espaço na memória para armazenar os dados.
+A sintaxe precisa declarar:
+	<tipo> (int - números inteiros, float - números decimais, double - recebimento de dados em números decimais duplicados e char - que é para entrada de dados de texto) <nome da variável (ex: idade, nome, carro e etc.>
+
+Regra de nomes de variáveis:
+Não pode começar com números
+Não pode ter caracteres especiais
+E não pode ter espaços
+Sempre começar com letra ou _
+Pode ter números apenas pós a primeira letra (Ex: Jetta211)

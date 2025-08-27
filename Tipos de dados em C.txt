@@ -1,0 +1,9 @@
+Tipos de dados em C
+todo dado em C, seja ele em texto ou número, ele entra como um dado em ASCII (numérico)
+
+Tipo:          Ocupa na memória                Consigo representar do número:
+Char	          8 bits                              -127 a 127
+Int (short)	 16 bits                          -32.768 a 32.767
+Int (long)       32 bits                       -2.147.483.648 a 2.147.483.647
+Float            32 bits                3,4 x 10-38 (elevado) a 3,4 x 10 38 (elevado)
+Double		 64 bits	       1,7 x 10-308 (elevado) a 1,7 x 10 308 (elevado)

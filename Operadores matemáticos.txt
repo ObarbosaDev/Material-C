@@ -1,0 +1,7 @@
+Operadores matemáticos
+Soma: +
+Subtração: -
+Multiplicação: *
+Divisão: / 
+Resto de divisão inteira: %
+Em C não existe números de resultado pós a virgula na divisão, para puxarmos o restante do valor, usamos %.

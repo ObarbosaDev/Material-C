@@ -1,0 +1,12 @@
+Atribuição de conteúdo a variáveis
+Operador = Tipo de armazenamento mudado por =
+	O que estiver pós o = vai ser atribuído a variável, vai preencher o espaço da memória
+	E o que estiver antes do = é operador
+	Sempre que usar = ao longo do código vai mudando o conteúdo da variável
+	Ex: 
+	<variável> = <informação>;
+
+Constante = Tipo de armazenamento não mudável, (Rígido)
+	Para criar eu chamo uma diretiva #define: e vai criar um identificador para o dado
+	Mesma regra de nomenclatura da variável
+	Ex: #define <nome> <valor>

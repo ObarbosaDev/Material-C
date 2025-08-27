@@ -1,0 +1,8 @@
+Atalhos de Linguagem C
+\a (Toca um bipe, alarme padrão do sistema)
+\b (Espaço)
+\n (Quebra de linha/parágrafo)
+\t (TAB)
+\r (Retorna pro começo da linha)
+\0 (Caractere nulo)
+\v (Tipo TAB, mas ao invés de mover na horizontal, mexe na vertical)

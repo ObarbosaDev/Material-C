@@ -1,0 +1,15 @@
+Atribuições Aritméticas
+Operadores: 
+Incremento em 1 unidade: ++
+Decremento em 1 unidade: --
+Incremento genérico: +=
+Decremento genérico: -=
+Atribuição com multiplicação: *=
+Atribuição com divisão: /=
+Aqui serve para fazer uma variável ter o conteúdo acrescido
+Ex: Varíavel valia 5, usando ++ vale 6
+usando -- vale 4
++= vale 10, variável + = 5
+-= efeito contrário
+*= multiplica por 5
+/= divide por 5
